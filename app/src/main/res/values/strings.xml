@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Musisi Favorit</string>
+    <string name="musicians_name">Nama Musisi</string>
+    <string name="detail">Detail</string>
+    <string name="my_name">Muhammad Jafar Shidik</string>
+    <string name="my_email">mjafarshidik86@gmail.com</string>
+    <string name="copyright">by : mjafarshidik</string>
+    <string name="origin">Asal</string>
+    <string name="genre">Genre</string>
+    <string name="active_year">Tahun Aktif</string>
+    <string name="member">Member</string>
+    <string name="album">Album</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="email">Email</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="instagram">Instagram</string>
+    <string name="my_instagram">mjafarshidik_</string>
+    <string name="facebook">Facebook</string>
+    <string name="University">University</string>
+    <string name="my_university">Univeristas Komputer Indonesia (UNIKOM)</string>
+    <string name="skill">Skill</string>
+    <string name="certification">Certification</string>
+    <string name="my_certification">Memulai Pemrograman dengan Kotlin, Belajar Prinsip Pemrograman SOLID, Belajar Membuat Augmented Reality</string>
+    <string name="major">Major</string>
+    <string name="my_major">Informatics Engineering</string>
+</resources>
